@@ -4,7 +4,7 @@
 In Ghost Racer, the player has to free lost souls while dodging pedestrians, shooting zombies with holy water, and avoiding oil slicks. The player also picks up goodies like healing kits and holy water refills. Once the player has freed all the lost souls, they move on to the next level.
 
 ## Screenshot
-![image][screenshot]
+![alt text][screenshot]
 [screenshot]: https://github.com/nikihosseinian/Ghost-Racer/blob/main/screenshot.jpg
 
 ## Rules
